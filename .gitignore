@@ -1,3 +1,8 @@
 node_modules
 .env
 .DS_Store
+# defining collums for all models --Done
+# Creating association modles index.js --Next
+# Set up seeds by typing npm run seeds, Just populate tables by running command "npm run seeds" into the terminal
+# Setup routes in the api folder--Follows after associations are done
+#test routes with insomia-- run those routes you created
