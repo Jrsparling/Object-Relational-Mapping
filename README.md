@@ -45,6 +45,10 @@ N/A
 
 N/A
 
+## Walkthrough Video
+
+[Link](https://app.screencastify.com/v2/manage/videos/pgxYWV3TGigAoGIxcgC8)
+
 ## Questions
 My [GitHub](https://github.com/Jrsparling) profile
 
